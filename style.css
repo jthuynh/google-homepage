@@ -20,6 +20,10 @@ a {
     color: black;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .underline-on-hover:hover {
     text-decoration: underline;
 }
