@@ -1,0 +1,25 @@
+.navbar {
+    text-align: left;
+    width: 100;
+}
+
+.navbar ul {
+    display: inline-block;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li+li {
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.underline-on-hover:hover {
+    text-decoration: underline;
+}
