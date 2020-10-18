@@ -17,7 +17,9 @@
 
 a {
     text-decoration: none;
+    font-family: sans-serif;
     color: black;
+    padding: 0px 0px 0px 15px;
 }
 
 ul {
@@ -26,4 +28,8 @@ ul {
 
 .underline-on-hover:hover {
     text-decoration: underline;
+}
+
+#main-content {
+    display: flex;
 }
